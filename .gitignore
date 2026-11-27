@@ -4,4 +4,4 @@ out/
 .sites-runtime/
 *.tsbuildinfo
 .env*
-!.env.example
+.env.example
