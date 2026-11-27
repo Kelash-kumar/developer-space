@@ -1,0 +1,8 @@
+{
+  "name": "kelas-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "dev": "next dev --hostname 127.0.0.1 --port 3107", "build": "next build", "typecheck": "tsc --noEmit" },
+  "dependencies": { "next": "latest", "react": "latest", "react-dom": "latest" },
+  "devDependencies": { "typescript": "^5", "@types/node": "^22", "@types/react": "^19", "@types/react-dom": "^19" }
+}
